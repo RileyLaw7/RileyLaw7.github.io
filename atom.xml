@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-09-14T08:58:11.137Z</updated>
+  <updated>2025-09-14T09:00:07.961Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/2025/09/14/hexo/"/>
     <id>http://example.com/2025/09/14/hexo/</id>
     <published>2025-09-14T07:37:36.000Z</published>
-    <updated>2025-09-14T08:58:11.137Z</updated>
+    <updated>2025-09-14T09:00:07.961Z</updated>
     
     
     <summary type="html">Hexo 基础使用。</summary>
@@ -39,10 +39,10 @@
   
   <entry>
     <title>qmake</title>
-    <link href="http://example.com/2025/09/12/qmake/"/>
-    <id>http://example.com/2025/09/12/qmake/</id>
+    <link href="http://example.com/qmake/"/>
+    <id>http://example.com/qmake/</id>
     <published>2025-09-12T08:05:08.000Z</published>
-    <updated>2025-09-12T09:14:32.451Z</updated>
+    <updated>2025-09-14T09:26:10.841Z</updated>
     
     
     <summary type="html">QT 基础配置。</summary>
